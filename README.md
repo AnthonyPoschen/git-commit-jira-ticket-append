@@ -23,3 +23,9 @@ repos:
 Then run `pre-commit install` to install the hook
 
 ## Example
+
+![example video](./jira-ticket-append-example.webm)
+
+<video controls width="250">
+  <source src="https://github.com/anthonyposhen/jira-ticket-append/jira-ticket-append-example.webm" type="video/webm" />
+</video>
