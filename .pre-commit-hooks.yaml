@@ -2,8 +2,8 @@
 - id: jira-ticket
   name: Jira Ticket in commit message
   description: ensure a jira ticket is included in all commit messages
-  language: system
-  entry: sh ./pre-commit.sh
+  language: script
+  entry: ./pre-commit.sh
   always_run: true
   stages:
   - commit-msg
