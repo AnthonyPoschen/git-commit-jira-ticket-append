@@ -1,5 +1,5 @@
 ---
-- id: jira-ticket
+- id: jira-ticket-append
   name: Jira Ticket in commit message
   description: ensure a jira ticket is included in all commit messages
   language: script
